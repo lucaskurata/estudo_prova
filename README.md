@@ -1,2 +1,5 @@
-# estudo_prova
-estudo para a prova
+Atores preferidos:
+    -ABC
+    -DEF
+    -GHI
+
